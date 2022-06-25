@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ravel-travel-app/static/css/main.196a053d.css",
+    "main.js": "/ravel-travel-app/static/js/main.46725ba0.js",
+    "static/js/787.21f28cca.chunk.js": "/ravel-travel-app/static/js/787.21f28cca.chunk.js",
+    "static/media/hero.png": "/ravel-travel-app/static/media/hero.eb0cb1be9e328d73703b.png",
+    "static/media/ellipse.png": "/ravel-travel-app/static/media/ellipse.6a738e471440ee1493d6.png",
+    "static/media/screens.png": "/ravel-travel-app/static/media/screens.05625293ba0337d04ee3.png",
+    "static/media/japan.png": "/ravel-travel-app/static/media/japan.8b8aa4efb22fd66923b5.png",
+    "static/media/cuba.png": "/ravel-travel-app/static/media/cuba.1147b9add07eb004340e.png",
+    "static/media/paris.png": "/ravel-travel-app/static/media/paris.da66d0673ebbe0dcbc0f.png",
+    "static/media/lighthouse.png": "/ravel-travel-app/static/media/lighthouse.2a73c491e911290f7a04.png",
+    "static/media/testimonial1.png": "/ravel-travel-app/static/media/testimonial1.3be97481c7adb35451b4.png",
+    "static/media/testimonial2.png": "/ravel-travel-app/static/media/testimonial2.6c8edb80ee9833db3f18.png",
+    "static/media/tour3.png": "/ravel-travel-app/static/media/tour3.a8d2431ae35c5e6e3d80.png",
+    "static/media/tour2.png": "/ravel-travel-app/static/media/tour2.f1e645a35d3e2190b908.png",
+    "static/media/tour1.png": "/ravel-travel-app/static/media/tour1.2a5e1f4c7b873d7aa230.png",
+    "static/media/service1.png": "/ravel-travel-app/static/media/service1.d033602133ecba7683b1.png",
+    "index.html": "/ravel-travel-app/index.html",
+    "main.196a053d.css.map": "/ravel-travel-app/static/css/main.196a053d.css.map",
+    "main.46725ba0.js.map": "/ravel-travel-app/static/js/main.46725ba0.js.map",
+    "787.21f28cca.chunk.js.map": "/ravel-travel-app/static/js/787.21f28cca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.196a053d.css",
+    "static/js/main.46725ba0.js"
+  ]
+}
